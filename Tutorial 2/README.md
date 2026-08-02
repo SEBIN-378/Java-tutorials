@@ -185,3 +185,92 @@ Enter n: 10
 ---
 
 ⭐ If you found this project helpful, consider giving the repository a star!
+
+
+
+
+
+# Palindrome Number in Java
+
+A simple Java program that checks whether a given integer is a **palindrome** by reversing its digits and comparing the reversed number with the original.
+
+## 📌 Description
+
+This program:
+- Accepts an integer from the user.
+- Reverses the digits using a `while` loop.
+- Compares the reversed number with the original number.
+- Displays whether the number is a palindrome or not.
+
+For example:
+- Input: `121`
+- Output: `Palindrome Number`
+
+## 🚀 Features
+
+- Takes user input using `Scanner`
+- Reverses a number using a `while` loop
+- Checks if the number is a palindrome
+- Simple and beginner-friendly Java program
+
+## 🛠️ Technologies Used
+
+- Java
+- Scanner Class
+- While Loop
+- Conditional Statements
+
+## 📂 Project Structure
+
+```
+PalindromeNumber.java
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+
+3. Compile the program:
+   ```bash
+   javac PalindromeNumber.java
+   ```
+
+4. Run the program:
+   ```bash
+   java PalindromeNumber
+   ```
+
+## 💻 Sample Output
+
+### Example 1
+```
+Enter a number: 121
+Palindrome Number
+```
+
+### Example 2
+```
+Enter a number: 123
+Not a Palindrome Number
+```
+
+## 📚 Concepts Covered
+
+- User Input
+- While Loop
+- Integer Arithmetic
+- Modulus Operator (`%`)
+- Conditional Statements (`if-else`)
+
+## 👨‍💻 Author
+
+**Sebin Raju**
+
+---
+
+⭐ If you found this project helpful, consider giving the repository a star!
