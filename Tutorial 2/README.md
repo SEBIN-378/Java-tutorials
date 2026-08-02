@@ -274,3 +274,85 @@ Not a Palindrome Number
 ---
 
 ⭐ If you found this project helpful, consider giving the repository a star!
+
+
+
+
+# Sum of Digits in Java
+
+A simple Java program that calculates the **sum of the digits** of a number entered by the user using a `while` loop.
+
+## 📌 Description
+
+This program:
+- Accepts a four-digit number from the user.
+- Extracts each digit using the modulus (`%`) operator.
+- Adds the digits together.
+- Displays the total sum of the digits.
+
+> **Note:** Although the prompt asks for a four-digit number, the program works correctly for any positive integer.
+
+For example:
+- Input: `1234`
+- Output: `10`
+
+## 🚀 Features
+
+- Takes user input using `Scanner`
+- Calculates the sum of digits using a `while` loop
+- Simple and beginner-friendly Java program
+- Works for any positive integer
+
+## 🛠️ Technologies Used
+
+- Java
+- Scanner Class
+- While Loop
+
+## 📂 Project Structure
+
+```
+SumOfDigits.java
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+
+3. Compile the program:
+   ```bash
+   javac SumOfDigits.java
+   ```
+
+4. Run the program:
+   ```bash
+   java SumOfDigits
+   ```
+
+## 💻 Sample Output
+
+```
+Enter a four-digit number: 1234
+Sum of digits = 10
+```
+
+## 📚 Concepts Covered
+
+- User Input
+- While Loop
+- Integer Arithmetic
+- Modulus Operator (`%`)
+- Division Operator (`/`)
+
+## 👨‍💻 Author
+
+**Sebin Raju**
+
+---
+
+⭐ If you found this project helpful, consider giving the repository a star!
