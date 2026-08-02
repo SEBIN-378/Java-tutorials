@@ -356,3 +356,93 @@ Sum of digits = 10
 ---
 
 ⭐ If you found this project helpful, consider giving the repository a star!
+
+
+
+
+# Vowel or Consonant in Java
+
+A simple Java program that determines whether a character entered by the user is a **vowel** or a **consonant** using a `switch` statement.
+
+## 📌 Description
+
+This program:
+- Accepts a single character from the user.
+- Converts the character to lowercase for case-insensitive comparison.
+- Uses a `switch` statement to check whether the character is a vowel.
+- Displays whether the entered character is a vowel or a consonant.
+
+For example:
+- Input: `A`
+- Output: `Vowel`
+
+## 🚀 Features
+
+- Takes user input using `Scanner`
+- Supports both uppercase and lowercase letters
+- Uses a `switch` statement for decision-making
+- Simple and beginner-friendly Java program
+
+> **Note:** This program assumes the user enters an English alphabet character. If a digit or special character is entered, it will be treated as a consonant.
+
+## 🛠️ Technologies Used
+
+- Java
+- Scanner Class
+- Switch Statement
+- Character Class (`Character.toLowerCase()`)
+
+## 📂 Project Structure
+
+```
+VowelOrConsonant.java
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+
+3. Compile the program:
+   ```bash
+   javac VowelOrConsonant.java
+   ```
+
+4. Run the program:
+   ```bash
+   java VowelOrConsonant
+   ```
+
+## 💻 Sample Output
+
+### Example 1
+```
+Enter a character: A
+Vowel
+```
+
+### Example 2
+```
+Enter a character: z
+Consonant
+```
+
+## 📚 Concepts Covered
+
+- User Input
+- Switch Statement
+- Character Handling
+- Case Conversion
+- Conditional Logic
+
+## 👨‍💻 Author
+
+**Sebin Raju**
+
+---
+
+⭐ If you found this project helpful, consider giving the repository a star!
