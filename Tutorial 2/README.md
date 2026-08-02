@@ -446,3 +446,85 @@ Consonant
 ---
 
 ⭐ If you found this project helpful, consider giving the repository a star!
+
+
+
+
+
+# Fibonacci Series in Java
+
+A simple Java program that prints the **Fibonacci series** up to a specified number of terms using a `for` loop.
+
+## 📌 Description
+
+This program:
+- Accepts the number of terms (`n`) from the user.
+- Generates the Fibonacci sequence starting with `0` and `1`.
+- Prints the first `n` terms of the series.
+
+The Fibonacci sequence is formed by adding the two previous numbers to get the next number.
+
+For example:
+- Input: `7`
+- Output: `0 1 1 2 3 5 8`
+
+## 🚀 Features
+
+- Takes user input using `Scanner`
+- Generates the Fibonacci sequence using a `for` loop
+- Efficient iterative approach
+- Simple and beginner-friendly Java program
+
+## 🛠️ Technologies Used
+
+- Java
+- Scanner Class
+- For Loop
+
+## 📂 Project Structure
+
+```
+FibonacciSeries.java
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+
+3. Compile the program:
+   ```bash
+   javac FibonacciSeries.java
+   ```
+
+4. Run the program:
+   ```bash
+   java FibonacciSeries
+   ```
+
+## 💻 Sample Output
+
+```
+Enter n: 7
+0 1 1 2 3 5 8
+```
+
+## 📚 Concepts Covered
+
+- User Input
+- For Loop
+- Variables
+- Iterative Programming
+- Fibonacci Sequence Logic
+
+## 👨‍💻 Author
+
+**Sebin Raju**
+
+---
+
+⭐ If you found this project helpful, consider giving the repository a star!
