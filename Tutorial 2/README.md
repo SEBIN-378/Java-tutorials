@@ -96,7 +96,91 @@ Invalid Operator
 
 ## 👨‍💻 Author
 
-**Seeget Dusk**
+**Sebin Raju**
+
+---
+⭐ If you found this project helpful, consider giving the repository a star!
+
+
+
+
+
+
+
+
+# Odd Numbers in Java
+
+A simple Java program that prints all odd numbers from **1** to a user-specified limit using a `for` loop and the `continue` statement.
+
+## 📌 Description
+
+This program:
+- Accepts an integer `n` from the user.
+- Iterates from `1` to `n`.
+- Skips even numbers using the `continue` statement.
+- Prints only the odd numbers.
+
+For example:
+- Input: `10`
+- Output: `1 3 5 7 9`
+
+## 🚀 Features
+
+- Takes user input using `Scanner`
+- Uses a `for` loop for iteration
+- Uses the `continue` statement to skip even numbers
+- Simple and beginner-friendly Java program
+
+## 🛠️ Technologies Used
+
+- Java
+- Scanner Class
+- For Loop
+- Continue Statement
+
+## 📂 Project Structure
+
+```
+OddNumbers.java
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+
+3. Compile the program:
+   ```bash
+   javac OddNumbers.java
+   ```
+
+4. Run the program:
+   ```bash
+   java OddNumbers
+   ```
+
+## 💻 Sample Output
+
+```
+Enter n: 10
+1 3 5 7 9
+```
+
+## 📚 Concepts Covered
+
+- User Input
+- For Loop
+- Conditional Statements
+- Modulus Operator (`%`)
+- Continue Statement
+
+## 👨‍💻 Author
+
+**Sebin Raju**
 
 ---
 
